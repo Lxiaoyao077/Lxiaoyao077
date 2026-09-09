@@ -4,12 +4,9 @@
 
 ### About Me
 
-我是 Lxyao，做 Android root 与内核相关的工具链。
+我是 Lxyao，喜欢折腾些有趣的东西。
 
-目前在维护 **[VexZygisk](https://github.com/Lxiaoyao077/VexZygisk)** —— 一个用 C 重写的独立 Zygisk 实现，
-为 KernelSU 与 APatch 各出一个包，同时说标准 Zygisk 与 Zygisk Next 两套 API，也处理 HyperOS 的 app spawner。
-
-其余时间花在 GKI 内核构建上（`sm8650` 系列，集成 SUSFS 与 KernelSU）。
+目前在维护 **[VexZygisk](https://github.com/Lxiaoyao077/VexZygisk)** —— 一个用 C 重写的独立 Zygisk 实现
 
 ### Featured
 
