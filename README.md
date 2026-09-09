@@ -1,25 +1,25 @@
-# Lxyao
+### Hi there 👋
 
-Android root and kernel tooling — Zygisk providers, KernelSU builds, GKI kernels.
+![](https://count.getloli.com/get/@Lxiaoyao077?theme=rule34)
 
-[![Profile views](https://komarev.com/ghpvc/?username=Lxiaoyao077&style=flat-square&color=2f81f7)](https://github.com/Lxiaoyao077)
-[![GitHub followers](https://img.shields.io/github/followers/Lxiaoyao077?style=flat-square&color=2f81f7)](https://github.com/Lxiaoyao077)
+### About Me
 
-## Featured
+我是 Lxyao，做 Android root 与内核相关的工具链。
 
-**[VexZygisk](https://github.com/Lxiaoyao077/VexZygisk)** — a standalone Zygisk
-implementation for KernelSU and APatch, written in C. Speaks the Zygisk Next API
-alongside the standard one, ships a dedicated archive per root solution, and
-handles the HyperOS app spawner. [38 stars](https://github.com/Lxiaoyao077/VexZygisk/stargazers)
+目前在维护 **[VexZygisk](https://github.com/Lxiaoyao077/VexZygisk)** —— 一个用 C 重写的独立 Zygisk 实现，
+为 KernelSU 与 APatch 各出一个包，同时说标准 Zygisk 与 Zygisk Next 两套 API，也处理 HyperOS 的 app spawner。
 
-## What I work on
+其余时间花在 GKI 内核构建上（`sm8650` 系列，集成 SUSFS 与 KernelSU）。
 
-- **Zygisk providers** — injection, module loading, the Zygisk Next API surface
-- **KernelSU** — manager and `ksud` builds, SUSFS integration
-- **GKI kernels** — `sm8650` trees with several root solution variants
-- **Play integrity** — the Violet module
+### Featured
 
-## Stack
+**[VexZygisk](https://github.com/Lxiaoyao077/VexZygisk)** — 独立的 Zygisk 实现，C 重写
+
+- 每个 root 方案一个专属包，不含另一方案的痕迹
+- 标准 Zygisk 模块走内置 csoloader，Zygisk Next 模块走系统 linker
+- Zygisk Next API v4，含 HyperOS Runtime 支持
+
+### Stack
 
 <p>
   <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C">
@@ -29,8 +29,3 @@ handles the HyperOS app spawner. [38 stars](https://github.com/Lxiaoyao077/VexZy
   <img src="https://img.shields.io/badge/Shell-89e051?style=flat-square&logo=gnubash&logoColor=black" alt="Shell">
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android">
 </p>
-
-## Reach me
-
-Issues on [VexZygisk](https://github.com/Lxiaoyao077/VexZygisk/issues) are the
-reliable channel — I read those.
