@@ -19,12 +19,6 @@ handles the HyperOS app spawner. [38 stars](https://github.com/Lxiaoyao077/VexZy
 - **GKI kernels** — `sm8650` trees with several root solution variants
 - **Play integrity** — the Violet module
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Lxiaoyao077/Lxiaoyao077/main/assets/footer.svg" width="100%">
-
-</div>
-
 ## Stack
 
 <p>
